@@ -9,9 +9,9 @@ spring:
 spring:
     profiles: Local
 spring.datasource.driver-class-name: com.mysql.jdbc.Driver
-spring.datasource.url: jdbc:mysql://10.20.15.44:3306/qualidi_security
+spring.datasource.url: <full url with schema name>
 spring.datasource.username: root
-spring.datasource.password: qualidi16
+spring.datasource.password: root
 spring.datasource.tomcat.max-wait: 10000
 spring.datasource.tomcat.max-active: 1000
 spring.datasource.tomcat.test-on-borrow: true
