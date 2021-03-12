@@ -1,6 +1,7 @@
 ## This is an spring security Authentication and Authorization example.
- 
- ** Authentication: **
+
+
+**Authentication:**
 
 ```
 1. User will enter user name and password.
