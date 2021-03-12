@@ -2,7 +2,7 @@ This is an spring security Authentication and Authorization working example.
 
 I have achieved Authentication and Authorization for specific user.
 
-Authentication:
+**##Authentication:**
     1. User will enter user name and password.
     2. Spring security will check  if user is exist if not return error message as UserNotFoundException and user handy message to the consumer.
     3. If exist, then  authenticate to the user using its credential/principle.
