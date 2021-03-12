@@ -14,5 +14,5 @@
 
 ## Permissions:
 	1. Added permission base authorization to the REST endpoints
-	2. User can access only those endpoints who have rights to do the operation/s. Other user request will be return as access **UNAUTHORIZED**.
+	2. User can access only those endpoints who have rights to do the operation/s. Other user request will be return as access UNAUTHORIZED.
 	
